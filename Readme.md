@@ -1,4 +1,4 @@
-# MegaPro
+# MegaPro CPU
 Sistema de Automação de Médio Porte com 64 portas configuráveis como entrada ou saída utilizando Arduino Mega pro e comunicação WIFI opcional com ESP01 ou ESP12 (D1 MINI).
 <br>
 Este projeto foi pensado para pessoas interessadas em montar sua própria automação residencial ou industrial, porém com pouca prática em confecção de placas.
@@ -17,7 +17,10 @@ O Sistema completo conta com uma placa principal (Arduino Mega Pro), oito placas
  <br> - Controladores conectados por encaixe na CPU;
  
 <h2> Placa finalizada </h2>
-  <img src="https://github.com/Packduino/Esp32Mega/blob/main/Sistema_ok.png" alt="Sistema Completo" width="600" height="600">
+<br> Esp01 para comunicação WIFI
+  <img src="https://github.com/Packduino/MegaPro/blob/main/foto_esp01.png" alt="Sistema com Esp01" width="600" height="600">
+<br> Esp12 para comunicação WIFI
+  <img src="https://github.com/Packduino/MegaPro/blob/main/foto_esp12.png" alt="Sistema com Esp12" width="600" height="600">
 <h2> Projetos dos PCBs </h2>
 <table border="1">
     <tr>
@@ -27,8 +30,8 @@ O Sistema completo conta com uma placa principal (Arduino Mega Pro), oito placas
     </tr>
     <tr>
         <td>CPU</td>
-        <td><img src="https://github.com/Packduino/Esp32Mega/blob/main/Esp32Mega_CPU_clean.png" alt="CPU 3D" width="400" height="400"></td>
-        <td><img src="https://github.com/Packduino/Esp32Mega/blob/main/Esp32Mega_CPU_foto.png" alt="CPU REAL" width="400" height="400"></td>
+        <td><img src="https://github.com/Packduino/MegaPro/blob/main/frente.png" alt="CPU 3D" width="400" height="400"></td>
+        <td><img src="https://github.com/Packduino/MegaPro/blob/main/fundo.png" alt="CPU REAL" width="400" height="400"></td>
     </tr>
     <tr>
         <td>Opto Acoplador</td>
