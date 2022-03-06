@@ -30,8 +30,8 @@ O Sistema completo conta com uma placa principal (Arduino Mega Pro), oito placas
     </tr>
     <tr>
         <td>CPU</td>
-        <td><img src="https://github.com/Packduino/MegaPro/blob/main/frente.png" alt="CPU 3D" width="400" height="400"></td>
-        <td><img src="https://github.com/Packduino/MegaPro/blob/main/fundo.png" alt="CPU REAL" width="400" height="400"></td>
+        <td><img src="https://github.com/Packduino/MegaPro/blob/main/frente.jpg" alt="CPU 3D" width="400" height="400"></td>
+        <td><img src="https://github.com/Packduino/MegaPro/blob/main/frente.png" alt="CPU REAL" width="400" height="400"></td>
     </tr>
     <tr>
         <td>Opto Acoplador</td>
